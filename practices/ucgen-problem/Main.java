@@ -6,7 +6,7 @@ public class Main {
         // a^2 + b^2 = c^2
         int verticalEdge, height;
 
-        System.out.print("Dik kenarı giriniz : ");
+        System.out.print("Taban kenarını giriniz : ");
         verticalEdge = input.nextInt();
         System.out.print("Yükseliği giriniz : ");
         height = input.nextInt();
