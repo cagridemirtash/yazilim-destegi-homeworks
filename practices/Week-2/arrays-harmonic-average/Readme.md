@@ -1,0 +1,6 @@
+- This example includes I/O operations, also arrays and loops.
+- We want to calculate harmonic average towards to given array by user.
+- First of all, user interact to program and give inputs.
+- And then, take the parameters and send to method "calculateHarmonicAverage".
+- Finally, calculate harmonic number for each element of array.
+- Return the result.
