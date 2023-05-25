@@ -1,0 +1,4 @@
+- This program includes given input array from user to sort min to max.
+- First, take input size and fill array to given number from user.
+- And then, built-in array method which is sort() executed.
+- Print the whole sort array.
