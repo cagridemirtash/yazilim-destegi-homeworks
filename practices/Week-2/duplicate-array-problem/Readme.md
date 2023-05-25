@@ -1,0 +1,4 @@
+- This program includes array operations which add, search and find.
+- First of all, initialize Integer type list and add if value is even and duplicate.
+- And then, condition of line 25 is controlling if value is added before.
+- Print the whole duplicate array.
